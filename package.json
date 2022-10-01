@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.4.0",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.3.16",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19",
+    "sharp": "^0.31.0",
+    "validator": "^10.9.0"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon backend/src/index.js"
+  },
+  "author": "Liel Nagar and Daniel Alfasi",
+  "license": "ISC",
+  "description": ""
+}
